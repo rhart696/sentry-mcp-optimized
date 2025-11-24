@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question or Discussion
+    url: https://github.com/rhart696/sentry-mcp-optimized/discussions
+    about: Ask questions or discuss ideas with the community
+  - name: Documentation
+    url: https://github.com/rhart696/sentry-mcp-optimized/tree/main/docs
+    about: Read the documentation before opening an issue
+  - name: Security Vulnerability
+    url: https://github.com/rhart696/sentry-mcp-optimized/blob/main/SECURITY.md
+    about: Report security vulnerabilities privately
